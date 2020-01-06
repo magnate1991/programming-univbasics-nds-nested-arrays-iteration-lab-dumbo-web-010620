@@ -3,11 +3,11 @@ def join_ingredients(src) =
   #
   # Build a new Array that contains strings where each pair of foods is
   # inserted into this template:
-  [ 
-    [food1, food2], 
-  [food3, food4],
-  [foodN, foodM]
-  ]
+  array_1 = [
+    ['pepperoni', 'sausage'], 
+    ['green olives', 'green peppers'],
+    ['onions', 'pineapple']
+    ]
   
   # "I love (inner array element 0) and (inner array element 1) on my pizza""
   
